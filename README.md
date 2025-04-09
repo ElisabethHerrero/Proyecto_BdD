@@ -49,3 +49,8 @@ Nicolás
 # Diagrama E-R
 
 
+Este diagrama E-R está compuesto por 9 entidades.
+
+Las dos principales son Nave, que está relacionado con Módulo, Suministro-Nave, Evento y Tripulante; la otra entidad principal es esta última, tripulante, que está relacionada con Tarea, que esta se relaciona con recompensa, que también se relaciona con suministro, nivel que se relaciona también con tarea, y misión. 
+
+
