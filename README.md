@@ -12,7 +12,7 @@
 
 Isabel 
 
-Elizabeth
+Elisabeth
 
 Alfonso
 
@@ -42,6 +42,10 @@ Nicolás
 
 
 
----
+--- --- ---
 
-#
+
+
+# Diagrama E-R
+
+
